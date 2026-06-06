@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/layout_fragment_channels.xml.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/layout/fragment_channels.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/layout_activity_main.xml.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/drawable_selector_channel_item.xml.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/drawable/selector_channel_item.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/drawable_ic_back.xml.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/layout-land_fragment_login.xml.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/layout-land/fragment_login.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/layout_fragment_image.xml.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/layout/fragment_image.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/layout_item_message_text.xml.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/layout/item_message_text.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/xml_data_extraction_rules.xml.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/layout-land_activity_main.xml.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/layout_item_channel.xml.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/layout/item_channel.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/layout_item_message_image.xml.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/layout/item_message_image.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/layout_fragment_messages.xml.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/layout/fragment_messages.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/layout_fragment_login.xml.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/drawable_ic_launcher_background.xml.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/xml_backup_rules.xml.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-debug-50:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "ru.snubmaze.chatapp-main-52:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]

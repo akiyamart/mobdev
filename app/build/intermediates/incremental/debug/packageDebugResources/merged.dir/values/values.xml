@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="channel_selected">#FFB3D9FF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">ChatApp</string>
+    <string name="btn_back">Назад</string>
+    <string name="btn_login">Войти</string>
+    <string name="btn_logout">Выйти</string>
+    <string name="btn_ok">ОК</string>
+    <string name="btn_send">Отправить</string>
+    <string name="channels_screen_title">Каналы</string>
+    <string name="error_dialog_title">Ошибка</string>
+    <string name="error_empty_fields">Заполните все поля</string>
+    <string name="error_network">Нет подключения к сети</string>
+    <string name="error_server">Ошибка сервера</string>
+    <string name="error_server_code">Ошибка сервера: %d</string>
+    <string name="error_unknown">Неизвестная ошибка</string>
+    <string name="error_wrong_credentials">Неверный логин или пароль</string>
+    <string name="hint_login">Логин</string>
+    <string name="hint_message">Сообщение</string>
+    <string name="hint_password">Пароль</string>
+    <string name="image_screen_title">Картинка</string>
+    <string name="img_message_description">Картинка в сообщении</string>
+    <string name="label_channels">Каналы</string>
+    <string name="label_select_chat">Выберите чат</string>
+    <string name="login_screen_title">Вход</string>
+    <string name="messages_screen_title">Сообщения</string>
+    <string name="nav_back">Назад</string>
+    <style name="Base.Theme.ChatApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ChatApp" parent="Base.Theme.ChatApp"/>
+</resources>

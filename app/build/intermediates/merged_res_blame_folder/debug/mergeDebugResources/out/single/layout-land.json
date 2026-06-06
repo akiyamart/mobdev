@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "ru.snubmaze.chatapp-mergeDebugResources-49:/layout-land/activity_main.xml",
+        "source": "ru.snubmaze.chatapp-main-52:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-mergeDebugResources-49:/layout-land/fragment_login.xml",
+        "source": "ru.snubmaze.chatapp-main-52:/layout-land/fragment_login.xml"
+    }
+]

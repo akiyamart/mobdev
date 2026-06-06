@@ -1,0 +1,7 @@
+ru.snubmaze.chatapp-pngs-0 D:\Vscode\study\mobdev\app\build\generated\res\pngs\debug
+ru.snubmaze.chatapp-updated_navigation_xml-1 D:\Vscode\study\mobdev\app\build\generated\updated_navigation_xml\debug
+ru.snubmaze.chatapp-packageDebugResources-2 D:\Vscode\study\mobdev\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+ru.snubmaze.chatapp-packageDebugResources-3 D:\Vscode\study\mobdev\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+ru.snubmaze.chatapp-debug-4 D:\Vscode\study\mobdev\app\build\intermediates\merged_res\debug\mergeDebugResources
+ru.snubmaze.chatapp-debug-5 D:\Vscode\study\mobdev\app\src\debug\res
+ru.snubmaze.chatapp-main-6 D:\Vscode\study\mobdev\app\src\main\res

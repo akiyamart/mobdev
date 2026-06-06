@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "ru.snubmaze.chatapp-mergeDebugResources-49:/layout/fragment_login.xml",
+        "source": "ru.snubmaze.chatapp-main-52:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-mergeDebugResources-49:/layout/item_message_text.xml",
+        "source": "ru.snubmaze.chatapp-main-52:/layout/item_message_text.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-mergeDebugResources-49:/layout/fragment_image.xml",
+        "source": "ru.snubmaze.chatapp-main-52:/layout/fragment_image.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "ru.snubmaze.chatapp-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-mergeDebugResources-49:/layout/item_channel.xml",
+        "source": "ru.snubmaze.chatapp-main-52:/layout/item_channel.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-mergeDebugResources-49:/layout/item_message_image.xml",
+        "source": "ru.snubmaze.chatapp-main-52:/layout/item_message_image.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-mergeDebugResources-49:/layout/fragment_messages.xml",
+        "source": "ru.snubmaze.chatapp-main-52:/layout/fragment_messages.xml"
+    },
+    {
+        "merged": "ru.snubmaze.chatapp-mergeDebugResources-49:/layout/fragment_channels.xml",
+        "source": "ru.snubmaze.chatapp-main-52:/layout/fragment_channels.xml"
+    }
+]
